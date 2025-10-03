@@ -3,6 +3,7 @@
 
 int main() { 
     printf("Desafio super_trunfo.c \n");
+    printf("Novo Commit \n");
     
     char estado[50];
     char codigo[50];
